@@ -14,6 +14,8 @@ public class demoswitch1 {
 						 break;
 		case 25 : System.out.println("25");
 					break;
+		case 30 : System.out.println("30");
+		break;
 		default:System.out.println("no case matched");
 		   		break;
 		}
